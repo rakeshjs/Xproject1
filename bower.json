@@ -1,0 +1,7 @@
+{
+  "name": "xpr1-demo",
+  "dependencies": {
+    "color-scale": "*",
+    "type-rhythm-scale": "*"
+  }
+}
